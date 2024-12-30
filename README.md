@@ -7,8 +7,8 @@ Module 11 Challenge
 While I was able to create the routes there is still the issue of the already initialized functions not working such as the delete, save and new note
 
 ## Resources
-> Module 11
-> AI assistance
+> * Module 11
+> * AI assistance
 
 ## Screenshot
 ![Note taker screenshot](./Assets/noteTaker%20Screenshot.png)
