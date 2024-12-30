@@ -3,7 +3,7 @@ const express = require('express');
 
 const app = express();
 
-const { readAndAppend, readFromFile } = require('../utils/fsUtils')
+const { readAndAppend, readFromFile } = require('./utils/fsUtils')
 
 //variables from public/js/index.js
 if (window.location.pathname === '/notes') {
